@@ -13,4 +13,4 @@ STEP-NC Machine (which contains the STEP-NC DLL)
 - Download - http://www.steptools.com/products/stepncmachine/download/
 - API Docs - http://www.steptools.com/support/stepnc_docs/stepncdll/
  
- 
+You can find more informat ion at http://steptools.github.io/
